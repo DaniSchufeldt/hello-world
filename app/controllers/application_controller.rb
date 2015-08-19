@@ -9,5 +9,6 @@ end
 
 def goodbye
   render text: "have a lovely evening"
+end
 
 end
